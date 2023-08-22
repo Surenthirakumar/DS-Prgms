@@ -30,7 +30,7 @@ int fibonacciRecursive(int n) {
 }
 
 int main() {
-	printf("Name : U.karthik\nReg no :192210719");
+	printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     int n = 5;
     int iterativeSum = fibonacciIterative(n);
     printf("\nSum of first %d Fibonacci numbers (iterative): %d\n", n, iterativeSum);
