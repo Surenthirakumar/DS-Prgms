@@ -66,7 +66,7 @@ int main() {
     printf("Reversed Linked List:\n");
     displayList(head);
 
-    
+    printf("Name : J SURENTHIRA KUMAR\nReg no :192121140\n");
     struct Node* current = head;
     while (current != NULL) {
         struct Node* temp = current;
