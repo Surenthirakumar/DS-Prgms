@@ -45,7 +45,7 @@ int peek(struct Stack *stack) {
 }
 
 int main() {
-	printf("Name : U.karthik\nReg no :192210719");
+	printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     struct Stack stack;
     initialize(&stack);
 
