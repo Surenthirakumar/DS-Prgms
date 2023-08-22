@@ -36,7 +36,7 @@ int main() {
     int size = sizeof(arr) / sizeof(arr[0]);
 
     int target;
-    printf("Name : U.karthik\nReg no :192210719");
+    printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     printf("\nEnter the element to search for: ");
     scanf("%d", &target);
 
