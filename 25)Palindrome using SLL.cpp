@@ -99,7 +99,7 @@ int main() {
         printf("\nThe linked list is not a palindrome.\n");
     }
 
-    
+    printf("Name : J SURENTHIRA KUMAR\nReg no :192121140\n");
     struct Node* current = head;
     while (current != NULL) {
         struct Node* temp = current;
