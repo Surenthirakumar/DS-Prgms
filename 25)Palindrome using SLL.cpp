@@ -85,7 +85,6 @@ int isPalindrome(struct Node* head) {
 }
 
 int main() {
-	printf("Name : U.karthik\nReg no :192210719");
     struct Node* head = NULL;
 
     appendNode(&head, 'r');
