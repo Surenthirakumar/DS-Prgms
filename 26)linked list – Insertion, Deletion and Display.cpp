@@ -70,7 +70,6 @@ void displayList(struct Node* head) {
 }
 
 int main() {
-	printf("Name : U.karthik\nReg no :192210719");
     struct Node* head = NULL;
 
     insertAtEnd(&head, 1);
