@@ -6,7 +6,7 @@ int main() {
 
     if (size >= 5) {
         int fifthElement = array[4];  
-        printf("Name : U.karthik\nReg no :192210719");
+        printf("Name :J SURENTHIRA KUMAR\nReg no :192121140");
         printf("\nThe fifth element is: %d\n", fifthElement);
     } else {
     	printf("Name : U.karthik\nReg no :192210719");
