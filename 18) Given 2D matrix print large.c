@@ -2,7 +2,7 @@
 
 int main() {
     int rows, cols,i,j;
-	printf("Name : U.karthik\nReg no :192210719");
+	printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     printf("\nEnter the number of rows: ");
     scanf("%d", &rows);
     printf("Enter the number of columns: ");
