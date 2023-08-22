@@ -66,7 +66,6 @@ int dequeue(struct Queue *queue) {
 }
 
 int main() {
-	printf("Name : U.karthik\nReg no :192210719\n");
     struct Queue *queue = createQueue(10);
 
     enqueue(queue, 3);
