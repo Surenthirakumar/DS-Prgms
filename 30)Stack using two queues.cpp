@@ -63,7 +63,7 @@ int pop(struct Stack *stack) {
 }
 
 int main() {
-	printf("Name : U.karthik\nReg no :192210719\n");
+	printf("Name : J SURENTHIRA KUMAR\nReg no :192121140\n");
     struct Stack *stack = createStack(10);
 
     push(stack, 3);
