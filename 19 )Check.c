@@ -3,7 +3,7 @@
 
 int main() {
     char input[100];
-    printf("Name : U.karthik\nReg no :192210719");
+    printf("Name :J SURENTHIRA KUMAR\nReg no :192121140");
 
     printf("\nEnter a string: ");
     scanf("%s", input);
