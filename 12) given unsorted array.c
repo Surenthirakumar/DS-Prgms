@@ -24,7 +24,7 @@ int main() {
         present[array[i]] = 1;
     }
 
-    printf("Name : U.karthik\nReg no :192210719");
+    printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     printf("\nMissing element(s): ");
     for (i = 1; i <= max; i++) {
         if (!present[i]) {
