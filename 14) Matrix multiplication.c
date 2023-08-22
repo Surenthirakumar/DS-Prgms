@@ -3,7 +3,7 @@
 int main(){  
 int a[10][10],b[10][10],mul[10][10],r,c,i,j,k;    
 system("cls");  
-printf("Name : U.karthik\nReg no :192210719");
+printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
 printf("\nenter the number of row=");    
 scanf("%d",&r);    
 printf("\nenter the number of column=");    
