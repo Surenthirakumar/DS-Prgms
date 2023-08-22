@@ -21,7 +21,7 @@ int iterativeFactorial(int n) {
 
 int main() {
     int num;
-    printf("Name : U.karthik\nReg no :192210719");
+    printf("Name :J SURENTHIRA KUMAR\nReg no :192121140");
     printf("\nEnter a number: ");
     scanf("%d", &num);
 
