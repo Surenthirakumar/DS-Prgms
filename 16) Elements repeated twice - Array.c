@@ -2,7 +2,7 @@
 
 void findRepeatedTwice(int arr[], int size) {
 	int i,j;
-	printf("Name : U.karthik\nReg no :192210719");
+	printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     printf("\nElements repeated twice: ");
     
     for (i = 0; i < size; i++) {
