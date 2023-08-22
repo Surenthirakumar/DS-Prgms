@@ -20,7 +20,7 @@ int main() {
     int result[sizeResult];
 
     concatenateArrays(arr1, size1, arr2, size2, result);
-	printf("Name : U.karthik\nReg no :192210719");
+	printf("Name : J SURENTHIRA KUMAR\nReg no :192121140");
     printf("\nConcatenated array: ");
     for (int i = 0; i < sizeResult; i++) {
         printf("%d ", result[i]);
